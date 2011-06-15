@@ -1,0 +1,3 @@
+Uses numpy!
+
+Checks if latest price is out of standard range (average value +- standard deviation)
