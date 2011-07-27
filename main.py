@@ -1,7 +1,4 @@
-import numpy
-import time
-import json
-import urllib
+import numpy, time, json, urllib
 
 def check():
     data = urllib.urlopen('https://mtgox.com/code/data/ticker.php').read()
